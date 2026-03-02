@@ -7,8 +7,8 @@ interested in urban analytics, business intelligence, and building
 well-structured visualizations that communicate findings effectively.
 
 ### Technical Skills
-- Análisis y gestión de datos utilizando **Excel / SQL / Python / R**
-- Visualización de datos y narración de historias usando **Tableau**
+- **Data analysis & data management** using **Excel, SQL, Python, and R**
+- **Data visualization & storytelling** using **Tableau**
 
 ### Soft Skills
 Data Analysis | Problem Solving | Effective Communication | Team Collaboration | Results-Driven | Organizational Skills | Proactive Mindset | Attention to Detail | Process Optimization
