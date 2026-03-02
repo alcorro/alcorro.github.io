@@ -1,6 +1,6 @@
 # About Me
 
-Data analyst with an Architecture background and strong skills in data cleaning, exploratory analysis, and
+Junior Data Analyst with an Architecture background and strong skills in data cleaning, exploratory analysis, and
 visual storytelling. Experienced in transforming complex datasets into clear,
 actionable insights that support data-driven decision-making. Particularly
 interested in urban analytics, business intelligence, and building
