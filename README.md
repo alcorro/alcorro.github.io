@@ -105,11 +105,10 @@ The objective of this project is to **evaluate the performance of the e-commerce
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-295F98?style=for-the-badge)
 
 ### Key  Questions
-1. ¿Cuántos usuarios activos diarios, semanales y mensuales tiene la aplicación?
-2. ¿Cuáles son las principales fuentes de adquisición de clientes y su rentabilidad?
-3. ¿Qué métricas de ventas y conversiones se pueden mejorar?
-4. ¿Qué tan efectiva es cada fuente de marketing según su ROMI?
-
+1. Where are the main drop-off points in the conversion funnel?
+2. How does user retention evolve over time?
+3. Which markets present the greatest opportunity for improvement?
+  
 ### Methodology
 
 - **Data extraction & querying:** SQL was used to aggregate user event data and construct funnel metrics and retention cohorts.
