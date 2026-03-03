@@ -13,6 +13,7 @@ well-structured visualizations that communicate findings effectively.
 ### Soft Skills
 Data Analysis | Problem Solving | Effective Communication | Team Collaboration | Results-Driven | Organizational Skills | Proactive Mindset | Attention to Detail | Process Optimization
 
+<!-- PARA HACER QUE EL LINK ABRA EN OTRA PESTAÑA
 <a href="https://www.linkedin.com/in/samuelalcorro/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>-->
